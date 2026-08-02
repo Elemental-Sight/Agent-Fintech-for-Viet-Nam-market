@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+.pytest_cache/
+*.egg-info/
+.DS_Store
+.claude/
+
+# Nội bộ, không push theo yêu cầu (spec gốc + nhật ký kỹ thuật riêng)
+Promt xây dựng/
+PROJECT_CONTEXT.md

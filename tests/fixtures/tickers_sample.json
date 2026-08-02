@@ -1,0 +1,7 @@
+[
+  {"ticker": "VNM", "full_name": "Công ty Cổ phần Sữa Việt Nam", "short_name": "Vinamilk", "exchange": "HOSE", "aliases": ["vinamilk", "sua viet nam"]},
+  {"ticker": "HPG", "full_name": "Công ty Cổ phần Tập đoàn Hòa Phát", "short_name": "Hòa Phát", "exchange": "HOSE", "aliases": ["hoa phat"]},
+  {"ticker": "VCB", "full_name": "Ngân hàng TMCP Ngoại thương Việt Nam", "short_name": "Vietcombank", "exchange": "HOSE", "aliases": ["vietcombank"]},
+  {"ticker": "ABC", "full_name": "Công ty Cổ phần ABC Một", "short_name": "ABC Một", "exchange": "HOSE", "aliases": ["cong ty abc"]},
+  {"ticker": "ABD", "full_name": "Công ty Cổ phần ABC Hai", "short_name": "ABC Hai", "exchange": "HOSE", "aliases": ["cong ty abc"]}
+]
